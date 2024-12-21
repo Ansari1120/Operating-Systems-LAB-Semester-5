@@ -1,0 +1,2 @@
+for cmd : https://www.tutorialsteacher.com/python/os-module#:~:text=The%20OS%20module%20in%20Python,with%20the%20underlying%20operating%20system.
+for py script:https://www.geeksforgeeks.org/os-module-python-examples/

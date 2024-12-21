@@ -1,0 +1,65 @@
+Basic commands : 
+
+1)dir (to check folders files in the current used directory)
+
+2)program/language/extension name -v (to check version of installed app/programming language extension) 
+
+or we can also use program_name --version
+
+3)date (current system date) similarly time (current system time)
+
+4)start filename.extention (to open file/app through command prompt)
+
+5)code .(to open vs code)
+
+6)code --list-extensions(to see installed extensions)
+
+7)cd desktop (to change directory to desktop) or cd /d d: (alternate) or d:
+ 
+8)md folder_name (make a folder)
+
+9)copy con readme.txt (to open a file contents)
+
+10)copy SOFTWARES.txt D: (to copy a file and paste it into a desired location)
+
+11)del SOFTWARES.txt (delete a file)
+
+12)rmdir SOFTWARES.txt(delete a folder)
+
+13)type SOFTWARES.txt (read contents of a file)
+
+14)ver (window version)
+
+15)vol (check disk space)
+
+16)exit (close cmd)
+
+17)cls (clear cmd screen)
+
+18)tasklist
+
+19taskkill /program_name.extension
+
+20)foldername .. (to go back twice)
+
+
+X....................X..............................X................X.................X.............
+
+
+python -v (to start controlling Computer through cmd)
+
+import os
+
+os.getcwd()
+
+os.mkdir("G:\myprojectosifirst") 
+
+os.chdir("F:\myprojectosifirst")
+
+os.getcwd()
+
+os.rmdir("G:\myprojectosifirst") // makesure first deleting dir isnt your working directory
+
+
+
+
